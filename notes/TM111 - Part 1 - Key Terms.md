@@ -9,8 +9,8 @@ modified: '2024-09-07T12:57:37.750Z'
 
 - **Digital Technology =** Any tech based on representing data as a sequence of numbers.
 - **Digital World =** the influence of computers on the world linked by communication networks
-- **Ubiquitous =**
-- **Convergence =**
+- **Ubiquitous =** "present, appearing, or found everywhere." (google)
+- **Convergence =** "When two or more things move towards a common point or form a new whole" (google)
 - **"The Internet" =** Global network of networks. An 'internetwork'. The hardware
 - **"The Web" =** a service that links files across computers allowing us to share files. The web is the software system that has been built upon the *hardware* of the internet
 - **Information Society =** (aka. network society). Technological changes in conjunction with social and economic changes on the scale of the Industrial Revolution.
