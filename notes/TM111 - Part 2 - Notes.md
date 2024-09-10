@@ -1,25 +1,12 @@
 ---
-title: TM111 - Part 2
+title: TM111 - Part 2 - Notes
 created: '2024-09-07T14:56:29.171Z'
-modified: '2024-09-08T10:58:37.154Z'
+modified: '2024-09-10T18:56:59.110Z'
 ---
 
-# TM111 - Part 2
+# TM111 - Part 2 -  Notes
 
-## Key Terms
-- **Ubqiuity =**
-- **Cloud =**
-- **Programmable Computer =** A computer for which the instructions can be changed
-- **Data =** The plural term for entered, returned or stored by a computer
-- **Datum =** A single item of data 
-- **Turing Test =** A test created by Alan Turing to test if a computer was 'able to think'. Asks fi the computer can have a conversation that could convince a human it was talking to another human. As of today this has not been achieved.
-- **Transistor =** A tiny crystal of silicon (few mm) that can conduct electric and act as a switch by blocking or allow the electricity to conduct.
-- **Integrated Circuit =** (aka. 'chip')
-- **Terminals =** computer terminals (keyboard & monitor) connected to a computer via telephone. One computer would support multiple terminals across the country.
-- **Microprocessor =** Single integrated circuit that contains the CPU
-
-## Notes
-
+## Computer Generations
 - The first computers were extremely heavey, occupied entire buildings and were rare, less than 100 in the 1950s
 - The power of a 1950s computer can now fit on a silicone chip that you can barely see with the naked eye
 - Estimated to be around 2 billion personal computers in the world today
@@ -49,3 +36,15 @@ modified: '2024-09-08T10:58:37.154Z'
   - With the introduction of microprocessors, personal ownership of computers became possible.
   - Early models were referred to as microcomputers (or just 'micros')
   - Four types of personal computers; Small personal computers for home use (games, word processing etc), larger workstations for intensive applications like graphics, minicomputers with terminal computers and the expensive and bulky mainframes/supercomputers used by governments and universities
+
+## Moore's Law
+- Gordon Moore (founder of Intel) made a prediction in 1965 that the density of electronic components on an IC silicon chip would double every year for the next 10 years
+- He was close, it actually doubled every two years.
+- At some point it moved from being a prediction to the industry target.
+- Intels Core M processor (2015) contains 1.3billion transistors measure just 14nm (the flu virus is 20nm!)
+- In recent years the law has started to faulter as the benefits of reducing size have decreased whilst the costs of doing so have increased
+
+## Embedded Computers
+- The most common kind of computer
+- Part of a large device and is designed to carry out a specialised function
+- Also known as micro controller or microprocessor
