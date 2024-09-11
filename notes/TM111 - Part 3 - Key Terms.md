@@ -1,7 +1,7 @@
 ---
 title: TM111 - Part 3 - Key Terms
 created: '2024-09-11T19:07:25.908Z'
-modified: '2024-09-11T20:05:15.775Z'
+modified: '2024-09-11T21:20:06.381Z'
 ---
 
 # TM111 - Part 3 - Key Terms
@@ -11,14 +11,18 @@ modified: '2024-09-11T20:05:15.775Z'
 - **Analogue =** Defined as 'a thing that is comparable to another'. A contingous values as opposed to the discrete values of a digital signal.
 - **Binary Word =** a set of given number of bits
 - **Bitmap =** a coding scheme that allocate a binary code to each pixel to define its colour and brightness (often the larger format, not suitable for web due to file sizes)
+- **Compression =** converting a digital file to a new file that uses considerbly fewer bits without significantly degrading the quality of the original content
+- **Compression Ratio =** Size of uncompressed / size of the compressed (eg: 10MB / 2MB = 5:1)
 - **Continguous Value =** a value that is measured
 - **Cycle (waveforms)=** the time between adjacent peaks or troughs.
 - **Discrete Value=** a value that can be counted
 - **Digital Media =** the tools we used to create media (text/image/audio) and the idea of communicating (shring) them via the internet
+- **Echo (sound) =** caused by the sound bouncing off a surface and returning. This will be recorded again as a slight delay
 - **File Format =** an agreed-upom way of oraganising and storing binary data
 - **Frequency =** the number of cycles in a given time period (usually one second)
 - **Hertz =** 1Hz = one cycle per second (ie. the period between two adjacent peaks or two adjacent troughs is 1 second).
 - **Pressure Wave =** a regular pattern of high and low pressure regions
+- **Reverberation (sound) =** caused by sound repeatidly bouncing off a surface in a way that makes it impossible to differentiate from the original. Combines with the original sound to create a new sound - often referred to as 'adding body' to the sound.
 - **Sample Rate =** the number of times per second a sample is taken
 - **Sound =** the ears intepretation of vibrations in the air (or water etc). An analogue signal.
 - **Sound sample =** As images can be split into pixels, a sound waveform can be split into 'samples'
@@ -47,3 +51,16 @@ modified: '2024-09-11T20:05:15.775Z'
     - The faithfulness of the digital copy will depend on how many numbers we use to divide the voltage (eg. 8-bit will have less bands than 16-bit)
     - The ear generally cannot tell the different in pitch of less than a few hertz
   - Audio in raw form takes alot of memory
+
+## Compression
+
+### Lossless Compression
+- Stored in a way whereby the original can be restored with nothing altered. Nothing taken away or lost.
+- Examples are .zip
+- One example of lossless encoding is 'dictionary-based encoding'.
+- In most digital files, the same data is repeated many times. The compression algorithum scans for these patterns and translates them into something that takes less space.
+- Run length encoding can take repeated contiguous data and replace them with one instance and the number of times to repeat it
+
+## Lossy Compression
+- Data will be removed and cannot be recovered, hopefully data that is redundant or won't be noticeable
+- 
