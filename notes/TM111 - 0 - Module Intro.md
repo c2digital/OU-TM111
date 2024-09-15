@@ -2,7 +2,7 @@
 tags: [TM111]
 title: TM111 - 0 - Module Intro
 created: '2024-09-05T17:37:14.928Z'
-modified: '2024-09-10T18:38:51.256Z'
+modified: '2024-09-15T17:14:10.151Z'
 ---
 
 # TM111 - 0 - Module Intro
@@ -52,3 +52,12 @@ By the end of this module I will...
 - Able to select information from a variety of sources and communicate it in a written or audiovisual format suitable for the purpose and audience
 - Use numberical skills to for calculations and data analysis.
 - Be able to collaborate with other students at distance
+
+## TMA Tips
+- Start by listing key points to include or the questions that need answering
+- Use the 'references' and 'external links' section of wikipedia articles when using wikipedia to expand resources and find more information
+- Make notes for your essay first, then turn them into the complete document.
+- Keep to the topic, don't waste word count on irrevelevant details
+- Explain any technical tyerms
+- Write out acronyms in full the first time you use them
+- Include an accurate word count at the end of the document

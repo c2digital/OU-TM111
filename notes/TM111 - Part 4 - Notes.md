@@ -1,12 +1,11 @@
 ---
 title: TM111 - Part 4 - Notes
 created: '2024-09-12T07:51:26.512Z'
-modified: '2024-09-15T16:13:24.733Z'
+modified: '2024-09-15T18:45:13.776Z'
 ---
 
 # TM111 - Part 4 - Notes
 
-** =** 
 **Attribute =** properties describing an entity
 **Big Data =** a data handling technology for extracting useful information from huge pool sof ill-defined data
 **Cluster =** a group of computing nodes. The nodes are normally of the same type of computer and on the same network. Each node has its own RAM.
