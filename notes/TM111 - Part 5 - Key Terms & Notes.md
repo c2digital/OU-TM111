@@ -1,10 +1,10 @@
 ---
-title: TM111 - Part 5 - Weaving the Web
+title: TM111 - Part 5 - Key Terms & Notes
 created: '2024-09-15T18:40:19.851Z'
-modified: '2024-09-15T19:05:16.502Z'
+modified: '2024-09-16T19:17:36.170Z'
 ---
 
-# TM111 - Part 5 - Weaving the Web
+# TM111 - Part 5 - Key Terms & Notes
 
 This part is all about HTML, which I use frequently as a software developer. My notes will be light on this section.
 
