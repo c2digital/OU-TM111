@@ -1,7 +1,7 @@
 ---
 title: TM111 - Part 5 - Weaving the Web
 created: '2024-09-15T18:40:19.851Z'
-modified: '2024-09-15T19:00:48.011Z'
+modified: '2024-09-15T19:05:16.502Z'
 ---
 
 # TM111 - Part 5 - Weaving the Web
@@ -14,7 +14,7 @@ This part is all about HTML, which I use frequently as a software developer. My 
 - **Explicit Markup =** Writing all the html character by character
 - **Hexadecimal =**Takes all possible 4-bit binary words and codes them into sixteen symbols (0-F)
 - **XML =** Extensible Markup Language. A way in which information ca be marked up and structured
-- ** =** 
+
 
 ## Notes
 - The web is a client-server system. The computer that serves the information is the server. The browser requesting the information is the client.
